@@ -1,0 +1,1 @@
+nim cpp -r main.nim
